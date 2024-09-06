@@ -1,0 +1,3 @@
+Covid-19 was first discovered and identified in November of 2019 in Wuhan, China where there were groups of patients experiencing flu-like symptoms from an unknown cause. This would later on in early 2020 be declared a global pandemic by the World Health Organization(WHO). 
+	Brazil was one of the many countries heavily impacted by the pandemic. By May of 2021 they had over 16 million confirmed cases and nearly half a million deaths. These numbers according to the “John Hopkins Research Center” have risen to almost 40 million cases and nearly one million deaths.
+	Having large numbers of patients requiring care has put a lot of strain on hospitals. The objective for this project is to develop a model that will predict what patients need ICU admission.
